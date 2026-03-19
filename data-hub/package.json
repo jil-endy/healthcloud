@@ -1,0 +1,1 @@
+{"name": "data-hub","version": "1.0.0","description": "Data hub for the health cloud project","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"repository": {"type": "git","url": "git+https://github.com/jil-endy/healthcloud.git"},"keywords": [],"author": "jil-endy","license": "ISC"}
